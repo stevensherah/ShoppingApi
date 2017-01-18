@@ -15,8 +15,21 @@ or<br />
 `$ easy_install requests`<br /><br />
 `$ easy_install BeautifulSoup `<br /><br />
 `$ easy_install lxml`<br /><br />
+#Example 
+```python
+import ShoppingApi
+url="https://www.jumia.co.ke/smartphones/?page=2"
+#downloading all smartphone from second jumia page
+try:
+  jumia_items=ShoppingApi.storeJumia("url")
+  #loop trough the list returned and store the data
+  for items in jumia_items:
+      #store items in a database for later use
+except AttributeError:
+     print "No such page found"
+```
 
-#Running tne Program
+#Running the Program in terminal
 1.Open the terminal and cd into the directory you extracted the project.<br />
 2.On the terminal run **python ShoppingApi.py** and if all your text run you should get output as follows<br />
 ![Alt text](/test.png?raw=true "Optional Title")
