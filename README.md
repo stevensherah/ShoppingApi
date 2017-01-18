@@ -7,11 +7,11 @@ Clone the repository from GitHub<br />
 
 #Prerequisites
 You need python 2.6 or a later version to run this script,you also need requests,lxml and BeautifulSoup
-#installing the prerequisites
+installing the prerequisites using pip
 `$ pip install requests`<br /><br />
 `$ pip install BeautifulSoup`<br /><br />
 `pip install lxml`<br /><br />
-or<br />
+or installing using easy_install<br /><br />
 `$ easy_install requests`<br /><br />
 `$ easy_install BeautifulSoup `<br /><br />
 `$ easy_install lxml`<br /><br />
