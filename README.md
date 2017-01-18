@@ -1,5 +1,5 @@
 # ShoppingApi
-This is python Script to find prime numbers between 0 and a give number n.
+This is python Script that provides an Api for kilimall and Jumia Shopping sites.
 
 #Getting Started
 Clone the repository from GitHub:
