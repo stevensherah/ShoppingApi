@@ -2,7 +2,7 @@
 This is python Script that provides an Api for kilimall and Jumia Shopping sites.
 
 #Getting Started
-Clone the repository from GitHub:
+Clone the repository from GitHub<br />
 $ git clone https://github.com/Keithwachira/ShoppingApi.git
 
 #Prerequisites
@@ -16,7 +16,7 @@ or<br />
 `$ easy_install BeautifulSoup `<br /><br />
 `$ easy_install lxml`<br /><br />
 
-#Running tne Program
+#Running the Program
 1.Open the terminal and cd into the directory you extracted the project.<br />
 2.On the terminal run **python ShoppingApi.py** and if all your text run you should get output as follows<br />
 ![Alt text](/test.png?raw=true "Optional Title")
