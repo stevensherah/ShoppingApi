@@ -1,5 +1,5 @@
 # ShoppingApi
-This is python Script that provides an Api for kilimall and Jumia Shopping sites.
+This is python Script that provides an Api for kilimall and Jumia Shopping sites.it helps you to download goods in stock from a jumia or kilimall page when you provide a url to that page.
 
 #Getting Started
 Clone the repository from GitHub<br />
